@@ -1,67 +1,76 @@
-🎲 Sorteador de Números / Number Sorter
-Um aplicativo simples e interativo para sortear números, desenvolvido com HTML, CSS e JavaScript.
+🎲 Number Draw / Sorteador de Números
 
-A simple and interactive application for generating random numbers, built using HTML, CSS, and JavaScript.
+A fun and minimalist number drawing app using HTML, CSS, and JavaScript, built to randomly generate numbers between a user-defined range.
+
+Um aplicativo divertido e minimalista de sorteio de números usando HTML, CSS e JavaScript, feito para gerar números aleatórios entre um intervalo definido pelo usuário.
 
 🚀 Features / Funcionalidades
-Gera números aleatórios dentro de um intervalo definido. / Generates random numbers within a defined range.
 
-Interface intuitiva e fácil de usar. / Intuitive and easy-to-use interface.
+Simple and fast number generator. / Gerador de números rápido e simples.
 
-Design responsivo para diversas telas. / Responsive design for various screens.
+Input fields for min and max values. / Campos para valores mínimo e máximo.
+
+Real-time draw result. / Resultado do sorteio em tempo real.
+
+Fully responsive layout. / Layout totalmente responsivo.
 
 💻 Technologies Used / Tecnologias Utilizadas
-HTML: Estrutura da aplicação. / Structure of the application.
 
-CSS: Estilização e layout. / Styling and layout.
+HTML: App structure. / Estrutura da aplicação.
 
-JavaScript: Lógica para o sorteio de números. / Logic for number generation.
+CSS: Styling and layout. / Estilo e layout.
+
+JavaScript: Logic and interactivity. / Lógica e interatividade.
 
 🧭 How to Use / Como Usar
-Defina o número mínimo e máximo. / Set the minimum and maximum numbers.
 
-Clique no botão "Sortear". / Click the "Sort" button.
+Enter the minimum and maximum numbers. / Digite os números mínimo e máximo.
 
-O número sorteado será exibido. / The generated number will be displayed.
+Click the "Sortear" button. / Clique no botão "Sortear".
 
-🛠️ Installation / Instalação e Execução
-Clone o repositório ou baixe o arquivo zip. / Clone the repository or download the zip file.
+A number will be randomly generated and shown. / Um número será gerado aleatoriamente e exibido.
 
-Abra index.html no seu navegador. / Open index.html in your browser.
-
-Bash
+🛠️ Installation / Instalação
 
 # Clone the repository / Clonar o repositório
-git clone [URL_DO_SEU_REPOSITORIO]
+git clone https://github.com/Gabriel-H-Rocha/sorteador-numeros.git
+
+Open the index.html file in your browser. / Abra o arquivo index.html no seu navegador.
+
 📁 Project Structure / Estrutura do Projeto
-index.html: Arquivo HTML principal. / Main HTML file.
 
-styles.css: Estilização. / Styling.
+index.html: App markup / Estrutura do app
 
-script.js: Lógica do sorteador. / Sorter logic.
+style.css: App styling / Estilo do app
+
+script.js: Random draw logic / Lógica do sorteio aleatório
 
 📸 Screenshots / Capturas de Tela
-(Adicione aqui screenshots ou GIFs do seu aplicativo)
+
+(Add images or GIFs of the project interface here)
 
 🔮 Future Improvements / Melhorias Futuras
-Opção para sortear múltiplos números. / Option to generate multiple numbers.
 
-Histórico dos números sorteados. / History of generated numbers.
+Generate multiple numbers at once. / Gerar múltiplos números de uma vez.
 
-Personalização da interface. / Interface customization.
+Add animation and sound effects. / Adicionar animações e efeitos sonoros.
+
+History of previous draws. / Histórico dos sorteios anteriores.
 
 🤝 Contributing / Contribuição
-Sinta-se à vontade para relatar problemas ou enviar pull requests para melhorar o projeto.
-Feel free to open issues or submit pull requests to improve the project.
+
+Feel free to fork the project or submit suggestions. / Fique à vontade para fazer um fork do projeto ou enviar sugestões.
 
 📜 License / Licença
-Este projeto está licenciado sob a Licença MIT. / This project is licensed under the MIT License.
+
+This project is under the MIT License. / Este projeto está sob a Licença MIT.
 
 👨‍💻 About the Developer / Sobre o Desenvolvedor
-Desenvolvido por [Seu Nome/Link do LinkedIn]. Veja mais projetos no GitHub.
 
-Developed by [Your Name/LinkedIn Link]. Check out more projects on [GitHub](https://github.com/Your-GitHub-Username].
+Created by Gabriel Henrique. View more projects at GitHub.
 
-⚠️ Este projeto foi desenvolvido com fins de aprendizado e prática front-end.
+Criado por Gabriel Henrique. Veja mais projetos em GitHub.
 
-Boas codificações! / Happy coding! 🚀
+⚠️ Projeto criado com fins educacionais para praticar manipulação do DOM, lógica de programação e responsividade com HTML, CSS e JS puro.
+
+Good luck and have fun! / Boa sorte e divirta-se! 🍀
