@@ -72,7 +72,7 @@ Desenvolvido por [Gabriel Henrique](https://www.linkedin.com/in/gabriel-henrique
 
 ---
 
-⚠️ Este projeto foi desenvolvido com fins de aprendizado e prática front-end.
+⚠️ Este projeto foi desenvolvido com fins de aprendizado e prática front-end e Lógica de Programação.
 
 Happy coding! / Boas codificações! 🚀
 
