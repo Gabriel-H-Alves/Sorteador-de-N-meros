@@ -66,11 +66,13 @@ Feel free to fork the project or submit suggestions.Fique à vontade para fazer 
 This project is under the MIT License.Este projeto está sob a Licença MIT.
 
 ## 👨‍💻 About the Developer / Sobre o Desenvolvedor
+Developed by [Gabriel Henrique](https://www.linkedin.com/in/gabriel-henrique-a84429250/). Check out more projects on [GitHub](https://github.com/Gabriel-H-Alves).
 
-Created by Gabriel Henrique.View more projects at GitHub.
+Desenvolvido por [Gabriel Henrique](https://www.linkedin.com/in/gabriel-henrique-a84429250/). Veja mais projetos no [GitHub](https://github.com/Gabriel-H-Alves).
 
-Criado por Gabriel Henrique.Veja mais projetos em GitHub.
+---
 
-⚠️ Projeto criado com fins educacionais para praticar manipulação do DOM, lógica de programação e responsividade com HTML, CSS e JS puro.
+⚠️ Este projeto foi desenvolvido com fins de aprendizado e prática front-end.
 
-Good luck and have fun! / Boa sorte e divirta-se! 🍀
+Happy coding! / Boas codificações! 🚀
+
