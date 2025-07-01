@@ -1,4 +1,4 @@
-🎲## Number Draw / Sorteador de Números
+## 🎲 Number Draw / Sorteador de Números
 
 A fun and minimalist number drawing app using HTML, CSS, and JavaScript, built to randomly generate numbers between a user-defined range.
 
