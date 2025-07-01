@@ -35,7 +35,7 @@ A number will be randomly generated and shown. / Um número será gerado aleator
 # Clone the repository / Clonar o repositório
 git clone https://github.com/Gabriel-H-Rocha/sorteador-numeros.git
 
-Open the index.html file in your browser. / Abra o arquivo index.html no seu navegador.
+Open the index.html file in your browser.Abra o arquivo index.html no seu navegador.
 
 📁 Project Structure / Estrutura do Projeto
 
@@ -59,17 +59,17 @@ History of previous draws. / Histórico dos sorteios anteriores.
 
 🤝 Contributing / Contribuição
 
-Feel free to fork the project or submit suggestions. / Fique à vontade para fazer um fork do projeto ou enviar sugestões.
+Feel free to fork the project or submit suggestions.Fique à vontade para fazer um fork do projeto ou enviar sugestões.
 
 📜 License / Licença
 
-This project is under the MIT License. / Este projeto está sob a Licença MIT.
+This project is under the MIT License.Este projeto está sob a Licença MIT.
 
 👨‍💻 About the Developer / Sobre o Desenvolvedor
 
-Created by Gabriel Henrique. View more projects at GitHub.
+Created by Gabriel Henrique.View more projects at GitHub.
 
-Criado por Gabriel Henrique. Veja mais projetos em GitHub.
+Criado por Gabriel Henrique.Veja mais projetos em GitHub.
 
 ⚠️ Projeto criado com fins educacionais para praticar manipulação do DOM, lógica de programação e responsividade com HTML, CSS e JS puro.
 
